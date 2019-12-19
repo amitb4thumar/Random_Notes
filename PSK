@@ -27,4 +27,12 @@ Implement Feedback Loops
 
 Improve Collaboratively, Evolve Experimentally (using models and the scientific method)
 
-Let’s look at what these mean when applied in combination with Scrum:
+----------------------------
+
+ -> Limiting the Work in Process, which in a Scrum context means you limit the amount of PBIs in progress at any time.
+ 
+ -> The Sprint itself is a WIP Limit.  A Sprint limits the number of PBIs that a Development Team forecasts it can complete during a fixed period. 
+ 
+ -> The team will look at the cycle times of PBIs for information on where there is room for improvement. Cycle time is a measure of the amount of time that has passed as an item on the Kanban board moves between two stages in a value stream.
+ 
+ -> By using reports such as cycle time control charts and cumulative flow diagrams, Scrum Teams can gain deeper insights into the flow of work, thus driving improvement experiments that don’t surface as a result of a classic Sprint Retrospective. 
