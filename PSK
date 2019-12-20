@@ -36,3 +36,8 @@ Improve Collaboratively, Evolve Experimentally (using models and the scientific 
  -> The team will look at the cycle times of PBIs for information on where there is room for improvement. Cycle time is a measure of the amount of time that has passed as an item on the Kanban board moves between two stages in a value stream.
  
  -> By using reports such as cycle time control charts and cumulative flow diagrams, Scrum Teams can gain deeper insights into the flow of work, thus driving improvement experiments that don’t surface as a result of a classic Sprint Retrospective. 
+ 
+ -> An SLE forecasts how long it should take a given item to flow from start to finish within your workflow. SLEs are used by Scrum Teams to set flow expectations to themselves. SLEs are ideally created based on actual historical cycle time data. They are then used by teams to focus their flow inspection and adaptation effort - during the Sprint in the Daily Scrum and following the sprint in the Sprint Retrospective. They can also be used in the Sprint Review when the team is working with stakeholders that care about the team's cycle time.
+ 
+ -> Sprint Review is 4 hours for a monthly Sprint. For shorter Sprints it is usually shorter. Sprint Planning is 8 hours for a monthly Sprint. For shorter Sprints it is usually shorter.
+
